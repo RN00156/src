@@ -18,7 +18,8 @@ public class Main {
 
 		myNewObjectDemo.runDemo();
 
-		System.out.println("\n~~~~~~~~~~~~~");
+		System.out.println("~~~~~~~~~~~~~\n");
+		System.out.println("~~~~~~~~~~~~~\n");
 
 		Integer myInt = 3;
 	}
